@@ -1,14 +1,7 @@
 {
-  "electrum1.monetaryunit.org": {
-    "pruning": "-",
-    "s": "50002",
-    "t": "50001",
-    "version": "1.4"
-  },
-  "electrum2.monetaryunit.org": {
+  "193.37.152.99": {
     "pruning": "-",
     "s": "50002",
     "t": "50001",
     "version": "1.4"
   }
-}
